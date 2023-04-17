@@ -122,5 +122,5 @@ volumes:
 
 networks:
   default:
-    name: custom_net_1
+    #name: custom_net_1
     driver: bridge
