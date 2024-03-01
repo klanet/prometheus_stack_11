@@ -17,7 +17,7 @@ services:
     environment:
       - GF_SECURITY_ADMIN_PASSWORD=illchangeitanyway
    #   - GF_SERVER_SERVE_FROM_SUB_PATH=true
-   #   - GF_SERVER_ROOT_URL=http://192.168.10.232/grafana/
+   #   - GF_SERVER_ROOT_URL=http://192.168.10.232/grafana
   #    - GF_AUTH_PROXY_ENABLED=true
     container_name: grafana
     hostname: grafana
